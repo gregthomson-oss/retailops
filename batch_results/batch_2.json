@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Mailbox Store USA",
+    "domain": "mailboxstoreusa.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Mailbox systems, cluster units, street signs, package delivery systems",
+    "reasoning": "Phase 1: ELIGIBLE - sells mailbox systems and signage. Phase 2: checked domain - online retailer shipping nationwide, no brand-owned retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Weisheit Engine Works",
+    "domain": "wewusa.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Portable generators (Oregon brand, Briggs & Stratton engines)",
+    "reasoning": "Phase 1: ELIGIBLE - sells generators and power equipment. Phase 2: checked domain - online only, no physical retail. Phase 3: N/A."
+  },
+  {
+    "name": "Infyniti Scales",
+    "domain": "infynitiscales.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Smoking accessories, scales, bongs, grinders, cannabis paraphernalia",
+    "reasoning": "Phase 1: INELIGIBLE - sells smoking accessories, bongs, grinders, rolling trays, cannabis-related products. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "ZAPPARTS.NET",
+    "domain": "www.zapparts.net",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Automotive performance parts, suspension, carburetors, vintage motorcycle parts",
+    "reasoning": "Phase 1: ELIGIBLE - sells automotive aftermarket parts. Phase 2: checked domain - online catalog only, no retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "ProActive Security Cameras",
+    "domain": "proactivesecuritycameras.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,000,000",
+    "product_type": "Security cameras, surveillance systems, professional camera equipment",
+    "reasoning": "Phase 1: ELIGIBLE - sells security/surveillance equipment. Phase 2: 1 brand-owned location at 2301 N. Central Expy, Plano, TX. Phase 3: 1 × 2,000 sqft × $500/sqft (general/electronics) × 1.0 = $1M."
+  },
+  {
+    "name": "The Atelier YUL",
+    "domain": "theatelieryul.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,050,000",
+    "product_type": "Handcrafted bags, accessories, creative studio products",
+    "reasoning": "Phase 1: ELIGIBLE - sells bags and accessories. Phase 2: 1 physical location in Montreal (seasonal public access, year-round for club members). Phase 3: 1 × 1,500 sqft × $700/sqft (apparel/accessories) × 1.0 = $1.05M."
+  },
+  {
+    "name": "Cold Saw Shop",
+    "domain": "coldsawshop.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Cold saw blades, metal cutting tools, carbide-tipped blades",
+    "reasoning": "Phase 1: ELIGIBLE - sells industrial metal cutting tools. Phase 2: checked domain - online only, no retail. Phase 3: N/A."
+  },
+  {
+    "name": "Tipsy",
+    "domain": "tipsy.shop",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "THC gummies, cannabis drink enhancers, hemp-derived cannabis products",
+    "reasoning": "Phase 1: INELIGIBLE - sells THC gummies, cannabis drink drops, cannabis wellness products (cannabis/CBD prohibited). Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "folcland",
+    "domain": "folcland.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,050,000",
+    "product_type": "Sustainable women's clothing, ethical fashion, accessories, clean beauty",
+    "reasoning": "Phase 1: ELIGIBLE - sells apparel and accessories. Phase 2: 1 brand-owned boutique at 505 S Main St, Breckenridge, CO. Phase 3: 1 × 1,500 sqft × $700/sqft (apparel) × 1.0 = $1.05M."
+  },
+  {
+    "name": "Pagosa Liquor",
+    "domain": "a19c6d.myshopify.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,000,000",
+    "product_type": "Liquor, wine, beer",
+    "reasoning": "Phase 1: ELIGIBLE - alcohol is NOT prohibited per Shopify policy. Phase 2: 1 brand-owned location at 30 N Pagosa Blvd, Pagosa Springs, CO. Phase 3: 1 × 2,000 sqft × $500/sqft (liquor retail) × 1.0 = $1M."
+  },
+  {
+    "name": "sempertex-international",
+    "domain": "int.sempertex.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Latex balloons (B2B wholesale only)",
+    "reasoning": "Phase 1: INELIGIBLE - B2B/wholesale-only distributor, sells through authorized distributors. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "MVC Distro",
+    "domain": "mvcdistro.ca",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Vaping products, e-cigarettes, disposables, e-liquids",
+    "reasoning": "Phase 1: INELIGIBLE - sells vaping/e-cigarette products (prohibited). Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Gulch Gear",
+    "domain": "gulchgear.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Camouflage apparel, outdoor clothing",
+    "reasoning": "Phase 1: ELIGIBLE - sells apparel. Phase 2: checked domain - online only, headquarters in Hillsboro OR, no retail. Phase 3: N/A."
+  },
+  {
+    "name": "Dreamer Designs",
+    "domain": "dreamerdesigns.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Diamond painting kits, craft supplies",
+    "reasoning": "Phase 1: ELIGIBLE - sells craft/art kits. Phase 2: checked domain - online only, no retail. Phase 3: N/A."
+  },
+  {
+    "name": "TOC Supplies",
+    "domain": "www.tocsupplies.ca",
+    "num_locations": 1,
+    "predicted_revenue": "$2,500,000",
+    "product_type": "Automotive detailing products, car care, ceramic coatings",
+    "reasoning": "Phase 1: ELIGIBLE - sells car detailing products. Phase 2: 1 brand-owned showroom/retail in Vaughan, Ontario. Phase 3: 1 × 5,000 sqft × $500/sqft (general retail/showroom) × 1.0 = $2.5M."
+  },
+  {
+    "name": "JLab Target",
+    "domain": "jlab-target.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Audio products, wireless earbuds, headphones",
+    "reasoning": "Phase 1: ELIGIBLE - sells audio electronics. Phase 2: JLab sells through third-party retailers (Target, Best Buy) and online - no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Libreria Mindbuilder",
+    "domain": "mindbuilder.cl",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Children's books, educational materials, bilingual books",
+    "reasoning": "Phase 1: ELIGIBLE - sells books and educational materials. Phase 2: checked domain - online bookstore Chile, no physical retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "KappaMart",
+    "domain": "kappamart.gg",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Gaming merchandise, artisan keycaps, collectible cards",
+    "reasoning": "Phase 1: ELIGIBLE - sells gaming merch and collectibles. Phase 2: checked domain - online only, ships internationally. Phase 3: N/A."
+  },
+  {
+    "name": "Paper Phenomenon",
+    "domain": "paperphenomenon.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Paper crafting supplies, albums, cardstock, crafting courses",
+    "reasoning": "Phase 1: ELIGIBLE - sells paper craft supplies. Phase 2: checked domain - online only, no retail. Phase 3: N/A."
+  },
+  {
+    "name": "South Gate Centre",
+    "domain": "localrootscafe.ca",
+    "num_locations": 1,
+    "predicted_revenue": "$750,000",
+    "product_type": "Cafe, catering, baked goods, freezer meals",
+    "reasoning": "Phase 1: ELIGIBLE - sells food and cafe services. Phase 2: 1 brand-owned location at South Gate Centre, 191 Old Wellington St S, Woodstock, ON. Phase 3: 1 × 1,500 sqft × $500/sqft (food) × 1.0 = $750K."
+  },
+  {
+    "name": "KushKards",
+    "domain": "www.kushkards.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Cannabis-themed greeting cards, stoner gifts, one-hitters, cannabis accessories",
+    "reasoning": "Phase 1: INELIGIBLE - cannabis-themed products, sells greeting cards bundled with one-hitters (smoking paraphernalia), cannabis culture merchandise. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Where I'm From",
+    "domain": "whereimfrom.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,300,000",
+    "product_type": "Location-based apparel, state/city/college merchandise",
+    "reasoning": "Phase 1: ELIGIBLE - sells apparel and accessories. Phase 2: 1+ brand-owned store confirmed at Belden Village Mall, Canton, OH. Phase 3: 1 × 2,000 sqft × $650/sqft (apparel) × 1.0 = $1.3M."
+  },
+  {
+    "name": "ACCI Gallery",
+    "domain": "shopaccigallery.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,000,000",
+    "product_type": "Handcrafted art, ceramics, jewelry, glass, textiles",
+    "reasoning": "Phase 1: ELIGIBLE - sells artisan crafts and gallery pieces. Phase 2: 1 brand-owned gallery at 1652 Shattuck Ave, Berkeley, CA. Phase 3: 1 × 2,000 sqft × $500/sqft (gallery/art) × 1.0 = $1M."
+  },
+  {
+    "name": "Brazilian Flame",
+    "domain": "brazilianflame.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Electric and gas rotisserie grills",
+    "reasoning": "Phase 1: ELIGIBLE - sells grills and cooking equipment. Phase 2: checked domain - online only, ships internationally, no retail. Phase 3: N/A."
+  },
+  {
+    "name": "JLab DE",
+    "domain": "de.jlab.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Wireless headphones, earbuds, audio (German market)",
+    "reasoning": "Phase 1: ELIGIBLE - sells audio products. Phase 2: JLab Germany - online only, no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Coperaco Mexico",
+    "domain": "coperaco.mx",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Specialty coffee, single-origin blends",
+    "reasoning": "Phase 1: ELIGIBLE - sells coffee. Phase 2: checked domain - online coffee roaster, primary store at coperacocoffee.com, no physical retail. Phase 3: N/A."
+  },
+  {
+    "name": "Sprayology",
+    "domain": "sprayology.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Homeopathic vitamin sprays, natural medicine",
+    "reasoning": "Phase 1: ELIGIBLE - sells vitamin/supplement sprays. Phase 2: checked domain - online only, phone orders, no retail. Phase 3: N/A."
+  },
+  {
+    "name": "maralta.co",
+    "domain": "maralta.co",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - domain not found in search results",
+    "reasoning": "Phase 1: ELIGIBLE (assumed) - insufficient search results to confirm. Phase 2: No retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "5024",
+    "domain": "5024generalstore.myshopify.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Skateboard apparel, streetwear, Spitfire/Alltimers brands",
+    "reasoning": "Phase 1: ELIGIBLE - sells apparel. Phase 2: 1 brand-owned store at 5024 50th St, Lacombe, Alberta. Phase 3: 1 × 1,500 sqft × $600/sqft (apparel) × 1.0 = $900K."
+  },
+  {
+    "name": "Ruby Love",
+    "domain": "pantyprop.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Period underwear, period swimwear, absorbent apparel",
+    "reasoning": "Phase 1: ELIGIBLE - sells intimate apparel. Phase 2: checked domain - online only, sells through website and third-party retailers. Phase 3: N/A."
+  },
+  {
+    "name": "High Desert Small Animal Feed",
+    "domain": "highdesertfeeds.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Premium hay, pellets, small animal feed for rabbits/guinea pigs",
+    "reasoning": "Phase 1: ELIGIBLE - sells pet feed. Phase 2: Farm-based online store, Fallon NV - no retail storefront. Phase 3: N/A."
+  },
+  {
+    "name": "Stay Golden",
+    "domain": "staygoldenmn.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,875,000",
+    "product_type": "Permanent jewelry, bespoke gold/silver chains, custom bracelets",
+    "reasoning": "Phase 1: ELIGIBLE - sells jewelry. Phase 2: 1 brand-owned location at 7900 Wedgewood Ln N, Maple Grove, MN (Phenix Salon Suites). Phase 3: 1 × 1,500 sqft × $1,250/sqft (luxury/jewelry) × 1.0 = $1.875M."
+  },
+  {
+    "name": "Shiloh Hills Soaps",
+    "domain": "shilohhillssoaps.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Handcrafted soaps, lotions, lip balms, body care",
+    "reasoning": "Phase 1: ELIGIBLE - sells personal care products. Phase 2: checked domain - online only, Ozark-based. Phase 3: N/A."
+  },
+  {
+    "name": "Kronbergs Flags and Flagpoles",
+    "domain": "kronbergsflagsandflagpoles.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,000,000",
+    "product_type": "Flags, flagpoles, custom banners, hardware",
+    "reasoning": "Phase 1: ELIGIBLE - sells flags and signage. Phase 2: 1 brand-owned location at 7106 Mapleridge St, Houston, TX. Phase 3: 1 × 2,000 sqft × $500/sqft (general) × 1.0 = $1M."
+  },
+  {
+    "name": "T.W. Price Design",
+    "domain": "www.twpricedesign.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom folding knives, fixed blade designs (Dawn, Reyne models)",
+    "reasoning": "Phase 1: ELIGIBLE - sells outdoor/utility knives (not weapons). Phase 2: checked domain - online/custom orders, no retail. Phase 3: N/A."
+  },
+  {
+    "name": "CARABC",
+    "domain": "carabc.cn",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "CarPlay/Android Auto adapters, in-car display systems",
+    "reasoning": "Phase 1: ELIGIBLE - sells automotive electronics. Phase 2: checked domain - online only, worldwide shipping. Phase 3: N/A."
+  },
+  {
+    "name": "Angelarium",
+    "domain": "angelarium.shop",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Angelic art, collectible cards, spiritual/art books",
+    "reasoning": "Phase 1: ELIGIBLE - sells art and books. Phase 2: checked domain - online only. Phase 3: N/A."
+  },
+  {
+    "name": "Grit & Grace Boutique, LLC",
+    "domain": "gritandgraceboutique.shop",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's clothing, dresses, graphic tees, accessories",
+    "reasoning": "Phase 1: ELIGIBLE - sells apparel. Phase 2: checked domain - online boutique only. Phase 3: N/A."
+  },
+  {
+    "name": "Neon Nelly",
+    "domain": "neonnelly.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - limited search results (likely neon/custom goods)",
+    "reasoning": "Phase 1: ELIGIBLE (assumed) - insufficient search results. Phase 2: No retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "Lakai-Tactics",
+    "domain": "inversal-tactics.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Skateboard decks, Powell Peralta products",
+    "reasoning": "Phase 1: ELIGIBLE - sells skateboard equipment. Phase 2: checked domain - online Shopify store, no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "NightBright USA",
+    "domain": "www.nightbrightusa.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Photoluminescent exit signs, emergency evacuation signage",
+    "reasoning": "Phase 1: ELIGIBLE - sells safety signage. Phase 2: checked domain - Texas manufacturer, online only. Phase 3: N/A."
+  },
+  {
+    "name": "Straight Down Clothing Co.",
+    "domain": "straightdownevents.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Golf apparel, athletic wear (events/tournament domain)",
+    "reasoning": "Phase 1: ELIGIBLE - sells golf apparel. Phase 2: straightdownevents.com is events/tournament site; main retail at straightdown.com - no brand-owned stores, sells online. Phase 3: N/A."
+  },
+  {
+    "name": "Country Creek Market",
+    "domain": "www.countrycreekmarket.ca",
+    "num_locations": 1,
+    "predicted_revenue": "$1,500,000",
+    "product_type": "Ice cream, Dutch imports, meats, dairy, candy, local art, gifts",
+    "reasoning": "Phase 1: ELIGIBLE - sells food and market goods. Phase 2: 1 brand-owned family market in Southern Alberta. Phase 3: 1 × 3,000 sqft × $500/sqft (food/market) × 1.0 = $1.5M."
+  },
+  {
+    "name": "Nightingale Ice Cream",
+    "domain": "nightingaleicecream.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Premium ice cream sandwiches",
+    "reasoning": "Phase 1: ELIGIBLE - sells ice cream. Phase 2: Sells through 5,200+ third-party grocery stores (Kroger, Target, etc.) - no brand-owned retail; Richmond VA is production facility. Phase 3: N/A."
+  },
+  {
+    "name": "Reel Animals Fishing",
+    "domain": "reelanimals.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Fishing rods, tackle, apparel, charters",
+    "reasoning": "Phase 1: ELIGIBLE - sells fishing gear. Phase 2: checked domain - online + fishing charters, no brand-owned retail store. Phase 3: N/A."
+  },
+  {
+    "name": "Play House Clothing",
+    "domain": "playhouseclothes.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Streetwear, letterman jackets, tracksuits",
+    "reasoning": "Phase 1: ELIGIBLE - sells apparel. Phase 2: checked domain - online only. Phase 3: N/A."
+  },
+  {
+    "name": "Lugz",
+    "domain": "www.lugz.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Footwear, boots, sneakers, work shoes",
+    "reasoning": "Phase 1: ELIGIBLE - sells footwear. Phase 2: checked domain - online only, no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Coqueta y Audaz",
+    "domain": "tienda.coquetayaudaz.com.mx",
+    "num_locations": 15,
+    "predicted_revenue": "$13,500,000",
+    "product_type": "Children's footwear, baby shoes, school shoes",
+    "reasoning": "Phase 1: ELIGIBLE - sells children's shoes. Phase 2: Multiple brand-owned stores across Mexico (Guadalajara, Mexico City, Monterrey, Puebla, etc.) - estimate 15+ locations. Phase 3: 15 × 1,500 sqft × $600/sqft (apparel) × 1.0 = $13.5M."
+  },
+  {
+    "name": "Linnea Design",
+    "domain": "linneadesign.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Candles, reed diffusers, home fragrance (LINNEA brand)",
+    "reasoning": "Phase 1: ELIGIBLE - sells home fragrance. Phase 2: checked domain - online only (linneaandco.com is main site). Phase 3: N/A."
+  },
+  {
+    "name": "Cansew Clearance",
+    "domain": "cansewclearance.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Sewing threads, elastics, sewing supplies at clearance prices",
+    "reasoning": "Phase 1: ELIGIBLE - sells sewing supplies. Phase 2: checked domain - online clearance store, minimum $200 CAD order. Phase 3: N/A."
+  }
+]
