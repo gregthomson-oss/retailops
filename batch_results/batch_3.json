@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Simply South Outfitters",
+    "domain": "www.simplysouthoutfitters.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Women's and men's clothing, accessories, coolers, mugs, Southern lifestyle apparel",
+    "reasoning": "Phase 1: ELIGIBLE - apparel and accessories, no prohibited products. Phase 2: Brand-owned store at 109 E College Street, Downtown Enterprise, AL. Phase 3: 1 × 1,500 sqft × $600/sqft (apparel) × 1.0 = ~$900,000"
+  },
+  {
+    "name": "Naked Sports Innovations",
+    "domain": "nakedsportsinnovations.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Hydration vests, sports bras, hydration belts, trail running gear",
+    "reasoning": "Phase 1: ELIGIBLE - sports/outdoor gear. Phase 2: Online-only retailer, no physical retail locations found."
+  },
+  {
+    "name": "Urban Sterling Silver",
+    "domain": "urbansterlingsilver.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,875,000",
+    "product_type": "Sterling silver jewelry from multiple vendors",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry. Phase 2: Operates as online arm of Silver Parrot boutique in Albany, NY (Stuyvesant Plaza). Note: Owner announced retirement, both closing. Phase 3: 1 × 1,500 sqft × $1,250/sqft (jewelry) × 1.0 = ~$1,875,000"
+  },
+  {
+    "name": "LaMuzej",
+    "domain": "www.lamuzej.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - domain may redirect or differ from LAMZU (gaming gear)",
+    "reasoning": "Phase 1: ELIGIBLE (if gaming peripherals). Phase 2: lamuzej.com not found in search; LAMZU (lamzu.com) sells through authorized retailers only, no brand-owned stores."
+  },
+  {
+    "name": "Strength Cartel",
+    "domain": "strengthcartel.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Fitness apparel, supplements, pre-workouts, gummies",
+    "reasoning": "Phase 1: ELIGIBLE - apparel and supplements. Phase 2: Online-only; Strength Cartel gym in UK has onsite supplement store but is separate facility, not retail chain."
+  },
+  {
+    "name": "National Eucharistic Congress",
+    "domain": "store.eucharisticrevival.org",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Catholic faith merchandise, t-shirts, socks, mugs, devotionals, digital resources",
+    "reasoning": "Phase 1: ELIGIBLE - religious merchandise. Phase 2: Online store only, no physical retail locations for the store."
+  },
+  {
+    "name": "C&M Mulepacker Candles",
+    "domain": "mulepackercandles.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Handmade gel candles in mason jars, Western-themed customizable candles",
+    "reasoning": "Phase 1: ELIGIBLE - candles and home goods. Phase 2: Online-only, no physical store locations."
+  },
+  {
+    "name": "Just Perfect Collection Online",
+    "domain": "justperfectcollection.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's clothing, designer collections (Alembika, Kinross Cashmere, Joseph Ribkoff, etc.)",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: Online boutique only, no physical retail locations."
+  },
+  {
+    "name": "shopnurseryrhymes",
+    "domain": "shopnurseryrhymes.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Children's clothing boutique - baby, toddler, swimwear, heirloom pieces",
+    "reasoning": "Phase 1: ELIGIBLE - children's apparel. Phase 2: Physical boutique in Jackson, MS. Phase 3: 1 × 1,500 sqft × $600/sqft (apparel) × 1.0 = ~$900,000"
+  },
+  {
+    "name": "Maximum Fragrance",
+    "domain": "maximumfragrance.ca",
+    "num_locations": 2,
+    "predicted_revenue": "$2,400,000",
+    "product_type": "Designer and niche perfumes, colognes, fragrances",
+    "reasoning": "Phase 1: ELIGIBLE - fragrances. Phase 2: Two brand-owned stores - Mississauga (Rockwood Mall) and Toronto (East York Town Centre). Phase 3: 2 × 2,000 sqft × $600/sqft × 1.0 = ~$2,400,000"
+  },
+  {
+    "name": "I Am Dusk",
+    "domain": "iamdusk.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's dresses, summer dresses, formals",
+    "reasoning": "Phase 1: ELIGIBLE - women's apparel. Phase 2: Online-only boutique, worldwide shipping, no physical stores."
+  },
+  {
+    "name": "Tessonja Odette Shop",
+    "domain": "tessonjaodetteshop.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Book swag, art prints, bookmarks, author merchandise",
+    "reasoning": "Phase 1: ELIGIBLE - book merchandise. Phase 2: Primary presence on Etsy (TessonjaOdetteAuthor); tessonjaodetteshop.com not prominently found; no physical retail."
+  },
+  {
+    "name": "Distillerie du Fjord",
+    "domain": "boutique.distilleriedufjord.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,200,000",
+    "product_type": "Spirits, gin, boreal forest-inspired liquors",
+    "reasoning": "Phase 1: ELIGIBLE - spirits (alcohol not in prohibited list). Phase 2: Distillery with boutique at 48 Chemin Price, Saint-David-de-Falardeau, Quebec. Phase 3: 1 × 2,000 sqft × $600/sqft × 1.0 = ~$1,200,000"
+  },
+  {
+    "name": "padrecca",
+    "domain": "padrecca.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - domain not found in search results",
+    "reasoning": "Phase 1: Unable to verify products. Phase 2: No information on physical locations. Domain may be inactive or misspelled."
+  },
+  {
+    "name": "Chandeleur Outfitters",
+    "domain": "shopchandeleuroutfitters.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,200,000",
+    "product_type": "Apparel for men, women, youth - outdoor, fishing, golf brands",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: Brand-owned store at 1106 Government Street, Ocean Springs, MS. Phase 3: 1 × 2,000 sqft × $600/sqft × 1.0 = ~$1,200,000"
+  },
+  {
+    "name": "HabiStore",
+    "domain": "shophabitatla.org",
+    "num_locations": 3,
+    "predicted_revenue": "$6,750,000",
+    "product_type": "Habitat for Humanity branded merchandise; ReStores sell donated furniture, building materials",
+    "reasoning": "Phase 1: ELIGIBLE - nonprofit merchandise and ReStore thrift. Phase 2: Habitat LA operates 3 ReStore locations (Bellflower, Torrance, Mid-Wilshire). Phase 3: 3 × 5,000 sqft × $450/sqft (thrift) × 1.0 = ~$6,750,000"
+  },
+  {
+    "name": "JLab Japan",
+    "domain": "jlab-audio.jp",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Earbuds, headphones, audio accessories",
+    "reasoning": "Phase 1: ELIGIBLE - consumer electronics/audio. Phase 2: Online store and Amazon Japan; no brand-owned retail locations."
+  },
+  {
+    "name": "MATCH Wholesale",
+    "domain": "dealer.match1995.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Italian dinnerware, drinkware, home décor - B2B wholesale",
+    "reasoning": "Phase 1: INELIGIBLE - Wholesale/B2B-only (dealer portal). Stocking and non-stocking dealer programs for retailers, designers, caterers."
+  },
+  {
+    "name": "Doggy Grub",
+    "domain": "www.doggygrub.com.au",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Pet food, dog food",
+    "reasoning": "Phase 1: ELIGIBLE - pet food. Phase 2: Online-only with delivery; no physical retail locations found."
+  },
+  {
+    "name": "Prithvi Mart",
+    "domain": "prithvimart.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Indian groceries, Ayurveda, fashion, puja items - ships globally",
+    "reasoning": "Phase 1: ELIGIBLE - groceries, wellness, fashion. Phase 2: Online-only, ships from India; no physical stores."
+  },
+  {
+    "name": "AMMO | Nicotine Pouches",
+    "domain": "dipammo.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Nicotine pouches (tobacco product)",
+    "reasoning": "Phase 1: INELIGIBLE - Nicotine/tobacco products. FDA warning letter April 2025. 15mg nicotine pouches."
+  },
+  {
+    "name": "Now You're Clean",
+    "domain": "www.nowyoureclean.com",
+    "num_locations": 2,
+    "predicted_revenue": "$1,350,000",
+    "product_type": "Self-service dog wash stations, grooming, pet products",
+    "reasoning": "Phase 1: ELIGIBLE - pet services and products. Phase 2: Two brand-owned locations - East Village (279 E 10th St) and Williamsburg, NYC. Phase 3: 2 × 1,500 sqft × $450/sqft (services) × 1.0 = ~$1,350,000"
+  },
+  {
+    "name": "Military Uniform Supply, Inc.",
+    "domain": "militaryuniformsupply.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Military uniforms, apparel, boots, tactical gear",
+    "reasoning": "Phase 1: ELIGIBLE - apparel (no weapons). Phase 2: Online-only, based in Pekin, IL; no physical retail."
+  },
+  {
+    "name": "luroyal.com",
+    "domain": "organivie.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - organivie.com not found; similar brands (LaVie Royal, Orlavi) sell beauty/hair care",
+    "reasoning": "Phase 1: ELIGIBLE if beauty/skincare. Phase 2: Domain mismatch; organivie.com not in search results."
+  },
+  {
+    "name": "NIXY Sports",
+    "domain": "nixysports.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Inflatable paddle boards, kayak gear, Bixpy motors, water sports",
+    "reasoning": "Phase 1: ELIGIBLE - outdoor sports equipment. Phase 2: Irvine office is HQ/warehouse, not retail showroom; online-only sales."
+  },
+  {
+    "name": "Pégalo en Línea",
+    "domain": "pegaloenlinea.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - domain not found in search; Pegalinas (pegalinas.com) sells stickers/labels",
+    "reasoning": "Phase 1: ELIGIBLE if stickers/labels. Phase 2: pegaloenlinea.com not found in search results."
+  },
+  {
+    "name": "Rainsford Company",
+    "domain": "rainsfordcompany.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Home furnishings, furniture, rugs, bedding, décor",
+    "reasoning": "Phase 1: ELIGIBLE - home goods. Phase 2: Online-only retailer; no physical store locations."
+  },
+  {
+    "name": "PayMore Flatbush",
+    "domain": "flatbushny.paymore.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Buy/sell/trade used electronics",
+    "reasoning": "Phase 1: ELIGIBLE - electronics. Phase 2: PayMore operates franchise model; Flatbush is franchisee-owned, not brand-owned. Only corporate-owned locations would count."
+  },
+  {
+    "name": "HOUSE OF NICHE",
+    "domain": "houseofniche.us",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Niche fragrances (Xerjoff, Nishane, Parfums de Marly, etc.)",
+    "reasoning": "Phase 1: ELIGIBLE - fragrances. Phase 2: Online-only; 1,300+ products, no physical stores."
+  },
+  {
+    "name": "Holidae Fun and Games",
+    "domain": "holidaeshop.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Board games, trading cards, gaming accessories, café",
+    "reasoning": "Phase 1: ELIGIBLE - games and entertainment. Phase 2: Brand-owned store at 435 W 2nd S, Rexburg, ID. Phase 3: 1 × 2,000 sqft × $450/sqft × 1.0 = ~$900,000"
+  },
+  {
+    "name": "All Right Chef Tool's",
+    "domain": "allrightcheftools.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - domain not found in search",
+    "reasoning": "Phase 1: ELIGIBLE if chef tools. Phase 2: allrightcheftools.com not found in search results."
+  },
+  {
+    "name": "Concept Apparel",
+    "domain": "shopconceptapparel.com",
+    "num_locations": 3,
+    "predicted_revenue": "$3,600,000",
+    "product_type": "Men's and women's clothing, plus-size, jewelry, beauty, kids",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: Three brand-owned stores - Kennewick, Union Gap, Spokane Valley Mall (WA). Phase 3: 3 × 2,000 sqft × $600/sqft × 1.0 = ~$3,600,000"
+  },
+  {
+    "name": "Hillfolk",
+    "domain": "hillfolk.com",
+    "num_locations": 2,
+    "predicted_revenue": "$1,800,000",
+    "product_type": "Fiber arts, yarn, textiles, craft supplies, workshops",
+    "reasoning": "Phase 1: ELIGIBLE - crafts and textiles. Phase 2: Two brand-owned stores - Bentonville, AR (8th Street Market) and Cumberland Gap, TN. Phase 3: 2 × 1,500 sqft × $600/sqft × 1.0 = ~$1,800,000"
+  },
+  {
+    "name": "Browns Footwear",
+    "domain": "www.brownsfootwear.com",
+    "num_locations": 74,
+    "predicted_revenue": "$88,800,000",
+    "product_type": "Footwear - UGG, New Balance, Birkenstock, Sorel, athletic, boots",
+    "reasoning": "Phase 1: ELIGIBLE - footwear. Phase 2: Brown's Shoe Fit Co. operates 74 stores across 12 Midwestern states. Phase 3: 74 × 2,000 sqft × $600/sqft × 1.0 = ~$88,800,000"
+  },
+  {
+    "name": "Pranarôm USA",
+    "domain": "pranarom.us",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Essential oils, aromatherapy, wellness blends",
+    "reasoning": "Phase 1: ELIGIBLE - wellness products. Phase 2: Online and retail partners; no brand-owned physical stores."
+  },
+  {
+    "name": "Lakai Philippines",
+    "domain": "lakai.ph",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Skateboard shoes, streetwear",
+    "reasoning": "Phase 1: ELIGIBLE - footwear. Phase 2: Online-only; no physical Lakai retail locations in Philippines."
+  },
+  {
+    "name": "Audio Gate International",
+    "domain": "audiogate.mx",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Professional audio equipment, large-scale audio projects, distribution",
+    "reasoning": "Phase 1: ELIGIBLE - audio equipment. Phase 2: B2B distributor with offices (Boston, Mexico City); no consumer retail locations."
+  },
+  {
+    "name": "King Midas Empire",
+    "domain": "kingmidasempire.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "14K gold jewelry (likely - related to Midas Gold Empire)",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry. Phase 2: kingmidasempire.com not clearly found; Midas Gold Empire is online-only."
+  },
+  {
+    "name": "Golden Highway Jewelry",
+    "domain": "goldenhwy.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Gemstone jewelry - alexandrite, larimar, topaz, spinel",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry. Phase 2: Online-only; trade show presence, no physical retail."
+  },
+  {
+    "name": "Altangle",
+    "domain": "altangletools.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Clamping tools, Connect series for cycling/hunting/outdoor",
+    "reasoning": "Phase 1: ELIGIBLE - tools and outdoor gear. Phase 2: Online-only; dealer portal exists but no brand-owned retail."
+  },
+  {
+    "name": "thesocialgametheory.com",
+    "domain": "thekaizenjournal.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Self-improvement journals (The Kaizen Challenge) - thekaizenjournal.shop",
+    "reasoning": "Phase 1: ELIGIBLE - books/journals. Phase 2: Online-only; thekaizenjournal.shop sells journals, no physical stores."
+  },
+  {
+    "name": "Corey Egan",
+    "domain": "coreyegan.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,250,000",
+    "product_type": "Handcrafted jewelry - rings, necklaces, earrings, bracelets",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry. Phase 2: Studio/showroom at 1025 Carleton St #8, Berkeley, CA - by appointment. Phase 3: 1 × 1,500 sqft × $1,250/sqft × 0.67 (appointment-only) = ~$1,250,000"
+  },
+  {
+    "name": "Nine Volt",
+    "domain": "nine-volt.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Powrbloc film lighting power equipment, professional photography gear",
+    "reasoning": "Phase 1: ELIGIBLE - professional equipment. Phase 2: Online-only; no physical retail locations."
+  },
+  {
+    "name": "L'ATELIER",
+    "domain": "2hnybd-cc.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unable to verify - Shopify store not found in search",
+    "reasoning": "Phase 1: Unable to verify. Phase 2: 2hnybd-cc.myshopify.com not found; multiple L'Atelier brands exist."
+  },
+  {
+    "name": "AIMEE",
+    "domain": "www.aimeekestenberg.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Jewelry and accessories",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry. Phase 2: Online-only; NYC corporate office, no retail stores."
+  },
+  {
+    "name": "District Mercantile",
+    "domain": "districtmercantile.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Antiques, vintage furnishings, jewelry, collectibles, local art",
+    "reasoning": "Phase 1: ELIGIBLE - antiques and vintage. Phase 2: Brand-owned store at 11914 Ferdinand St, Saint Francisville, LA. Phase 3: 1 × 2,000 sqft × $450/sqft × 1.0 = ~$900,000"
+  },
+  {
+    "name": "Mckenzie James",
+    "domain": "www.shopmckenziejames.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's clothing, shoes, accessories, home décor",
+    "reasoning": "Phase 1: ELIGIBLE - apparel and home. Phase 2: Online-only; no physical retail locations."
+  },
+  {
+    "name": "The Modern Skein",
+    "domain": "themodernskein.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Hand-dyed artisan yarn, fiber arts supplies",
+    "reasoning": "Phase 1: ELIGIBLE - yarn and crafts. Phase 2: Brand-owned store at 1909 Longmire Road, Conroe, TX (relocated from Montgomery Jan 2025). Phase 3: 1 × 1,500 sqft × $600/sqft × 1.0 = ~$900,000"
+  },
+  {
+    "name": "Lucia's World Emporium",
+    "domain": "www.luciasworldemporium.com",
+    "num_locations": 2,
+    "predicted_revenue": "$2,400,000",
+    "product_type": "Fair trade jewelry, home décor, clothing, gifts from global artisans",
+    "reasoning": "Phase 1: ELIGIBLE - fair trade products. Phase 2: Two brand-owned stores - Lexington, KY (328 N. Ashland Ave) and Saugatuck, MI (421 Water St). Phase 3: 2 × 2,000 sqft × $600/sqft × 1.0 = ~$2,400,000"
+  },
+  {
+    "name": "DUR B2B NACIONAL",
+    "domain": "distribuidores.durpets.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Pet toys (DUR brand) - B2B wholesale distribution",
+    "reasoning": "Phase 1: INELIGIBLE - Wholesale/B2B-only. Distributor portal for pet toy wholesale; not consumer retail."
+  }
+]
