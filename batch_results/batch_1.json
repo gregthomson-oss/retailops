@@ -1,0 +1,402 @@
+[
+  {
+    "name": "The Goddess Mercado",
+    "domain": "thegoddessmercado.com",
+    "num_locations": 1,
+    "predicted_revenue": "$675,000-$900,000",
+    "product_type": "Handmade cultura fashion, vintage clothing, jewelry, beauty, apothecary, crafts",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned boutique at 5384 Huntington Drive, El Sereno 90032 (Wed-Sun 12pm-6pm). Phase 3: 1 × 1,500 sqft × $600/sqft (apparel) × 0.75 traffic = ~$675K-$900K."
+  },
+  {
+    "name": "Mad For Monograms",
+    "domain": "madformonograms.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom monogrammed gifts, baby/wedding gifts, home décor, drinkware",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only boutique, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "MJ-HAMMER",
+    "domain": "mj-hammer.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Waterworks professional hammers for pipe assembly (B2B/industrial)",
+    "reasoning": "Phase 1: INELIGIBLE - Wholesale/B2B-only, sold through distributors (Ferguson, Blair Supply). Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Vinyl Pro",
+    "domain": "vinylpro.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Vinyl and leather repair tools, kits, professional supplies",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, ships internationally, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "airemasterhome",
+    "domain": "airemasterhome.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "ScentScapes home fragrance oil diffusers, scent dispensers",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: E-commerce only, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "RipTip",
+    "domain": "theriptip.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Glass rolling tips for cannabis/tobacco joints",
+    "reasoning": "Phase 1: INELIGIBLE - Cannabis/tobacco accessories. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Mav Brand",
+    "domain": "www.mavoutdoors.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Outdoor apparel, fishing equipment, outerwear, base layers",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only retailer, no brick-and-mortar store locations. Phase 3: N/A."
+  },
+  {
+    "name": "Diesel Truck RX",
+    "domain": "dieseltruckrx.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Diesel truck tuning, parts, monitors (Cummins, Duramax, Powerstroke)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, no physical store locations. Phase 3: N/A."
+  },
+  {
+    "name": "Utilities Home",
+    "domain": "utilitieshome.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Home goods: candles, cleaning supplies, pillows, rugs, organization items",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online retailer; one source mentioned in-store hours but no verified brand-owned location found. Phase 3: N/A."
+  },
+  {
+    "name": "1320Video",
+    "domain": "1320video.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Drag racing apparel, DVDs, car care/detailing products, accessories",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only storefront, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Libros787.com",
+    "domain": "libros787.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Books by Puerto Rican, Latino, Hispanic authors",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Virtual bookstore, e-commerce only, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "SMILE LABZ",
+    "domain": "smilelabz.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Teeth whitening strips, toothpastes, oral care products",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only (smilelab.com/smilelabz related), no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Nonie",
+    "domain": "www.noniewear.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Sustainable protective clothing, hand-sewn in Canada",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only DTC retailer, no brick-and-mortar locations. Phase 3: N/A."
+  },
+  {
+    "name": "bse",
+    "domain": "bseskate.com",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "Skateboards, decks, apparel, shoes, coffee bar",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned location at 225 Princess Street, Kingston, Ontario. Phase 3: 1 × 1,500 sqft × $450/sqft (general retail) × 0.75 = ~$506K."
+  },
+  {
+    "name": "Into Archive",
+    "domain": "into-archive.myshopify.com",
+    "num_locations": 1,
+    "predicted_revenue": "$3,750,000-$7,500,000",
+    "product_type": "Luxury vintage clothing, designer resale",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned NYC showroom in Flatiron (by appointment). Phase 3: 1 × 5,000-10,000 sqft × $1,250/sqft (luxury) × 0.6 = ~$3.75M-$7.5M."
+  },
+  {
+    "name": "DAG-Miami",
+    "domain": "dag-miami.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Fashion/clothing (Shopify store)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: No verified brand-owned retail locations found; Shopify store appears online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Stretchers R Us",
+    "domain": "stretchersrus.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Medical stretchers, ambulance cots, stair chairs (B2B wholesale)",
+    "reasoning": "Phase 1: INELIGIBLE - B2B wholesale medical equipment to hospitals/EMS. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Urbanly Chic",
+    "domain": "urbanlychic.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Boutique fashion (site under construction)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Website shows password/under construction; no verified retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Spunk Fitness",
+    "domain": "spunkfitness.myshopify.com",
+    "num_locations": 2,
+    "predicted_revenue": "$2,400,000-$3,000,000",
+    "product_type": "Fitness gym memberships, equipment, tanning, Red Light Therapy",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 2 brand-owned gym locations (Golden Ring MD, Newark NY). Phase 3: 2 × 3,000 sqft × $400/sqft (fitness) × 1.0 = ~$2.4M."
+  },
+  {
+    "name": "No Trojan Content",
+    "domain": "www.notrojan.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - limited information found",
+    "reasoning": "Phase 1: Unable to verify. Phase 2: No information found for notrojan.com. Phase 3: N/A."
+  },
+  {
+    "name": "Mar-Schell's Music",
+    "domain": "marschellsmusic.com",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "New, used, vintage music gear, instruments, lessons, repairs",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned store at 1109 Henderson Highway, Winnipeg, MB. Phase 3: 1 × 2,000 sqft × $450/sqft × 0.75 = ~$675K."
+  },
+  {
+    "name": "Bendito Pie",
+    "domain": "www.benditopie.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Pie/bakery (domain not clearly verified)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: No verified information found for benditopie.com; could not confirm retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Hunterworks",
+    "domain": "www.hunterworks1.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Outdoor/hunting gear (online retailer)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, free shipping nationwide; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Milk Makeup",
+    "domain": "milkmakeup.com",
+    "num_locations": 1,
+    "predicted_revenue": "$3,750,000-$4,500,000",
+    "product_type": "Vegan cruelty-free makeup, clean beauty",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned retail at 568 Broadway #700 NYC (workshops, in-store returns). Phase 3: 1 × 5,000 sqft × $1,250/sqft (beauty/luxury) × 0.6 = ~$3.75M."
+  },
+  {
+    "name": "EXP PRO",
+    "domain": "exppropower.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Power equipment, dealer/distributor model (B2B)",
+    "reasoning": "Phase 1: INELIGIBLE - Dealer/B2B model, no brand-owned retail. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Gait Happens",
+    "domain": "shop.gaithappens.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Gait analysis products, foot care, virtual consultations",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online shop + virtual consultations; products sold through partner retailers (not brand-owned). Phase 3: N/A."
+  },
+  {
+    "name": "Shutter and Frame",
+    "domain": "shutterandframe.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Gallery-quality fine art photography prints, made to order",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, Carlsbad CA HQ, no retail storefront. Phase 3: N/A."
+  },
+  {
+    "name": "Ikon Motorsports",
+    "domain": "ikonmotorsports.com",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "Car accessories, auto parts",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 location at 19852 Business Pkwy, City of Industry CA (Mon-Fri 10am-6pm). Phase 3: 1 × 2,000 sqft × $450/sqft × 0.5 (warehouse-style) = ~$450K."
+  },
+  {
+    "name": "Clothes Mentor North Olmsted",
+    "domain": "northolmstedoh.clothesmentor.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's resale clothing, designer consignment",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Franchise location (not brand-owned); Clothes Mentor has 132 franchise units. Phase 3: N/A - franchise excluded."
+  },
+  {
+    "name": "Buddha's Sanctuary LLC",
+    "domain": "buddhascup.com",
+    "num_locations": 1,
+    "predicted_revenue": "$225,000-$337,500",
+    "product_type": "Coffee, tea, birch syrup, Chaga (Buddha's Cup Sanctuary)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned sanctuary/tasting location in Kona, Hawaii (by appointment). Phase 3: 1 × 1,500 sqft × $450/sqft (food) × 0.5 = ~$337K."
+  },
+  {
+    "name": "Optimal Industries",
+    "domain": "optimalindustries.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Welding/manufacturing products (B2B)",
+    "reasoning": "Phase 1: INELIGIBLE - B2B/industrial welding. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Elevated Mixers",
+    "domain": "elevatedmixers.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Organic cold-pressed cocktail mixers",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Concho USA",
+    "domain": "conchousa.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Hats, western wear, tech hats",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Store locator shows dealers/third-party retailers only, no brand-owned locations. Phase 3: N/A."
+  },
+  {
+    "name": "sugarycarousel",
+    "domain": "sugarycarousel.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - limited indexing",
+    "reasoning": "Phase 1: ELIGIBLE (assumed). Phase 2: No verified information found for sugarycarousel.com. Phase 3: N/A."
+  },
+  {
+    "name": "SHA Campus Store",
+    "domain": "shacampusstore.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "School spirit wear, uniforms, accessories (Buffalo Academy Sacred Heart)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online Shopify store only, no physical retail. Phase 3: N/A."
+  },
+  {
+    "name": "NYTOP",
+    "domain": "checkout.nytop.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Auto parts merchandise, decals, apparel (Not Your Typical Original Parts)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online store at nytop.com, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Element Fire Canada",
+    "domain": "elementfirecanada.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Fire extinguishers, safety equipment",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, dealer program for third-party retailers. Phase 3: N/A."
+  },
+  {
+    "name": "Poppy Scrubs",
+    "domain": "www.poppyscrubs.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Nurse scrubs, compression socks",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, nurse-founded DTC brand. Phase 3: N/A."
+  },
+  {
+    "name": "Infinite Age",
+    "domain": "infiniteage.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "NMN, C60, Resveratrol, supplements",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, subscription model. Phase 3: N/A."
+  },
+  {
+    "name": "Pulse Endurance Sports",
+    "domain": "www.pulseendurance.com",
+    "num_locations": 2,
+    "predicted_revenue": "$900,000-$1,200,000",
+    "product_type": "Triathlon, road, mountain bikes, bike services",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 2 brand-owned locations (La Mesa, Chula Vista CA). Phase 3: 2 × 2,000 sqft × $450/sqft × 0.75 = ~$1.35M."
+  },
+  {
+    "name": "Familia Fine Foods Inc.",
+    "domain": "familiafinefoods.com",
+    "num_locations": 1,
+    "predicted_revenue": "$675,000-$900,000",
+    "product_type": "Homemade frozen meals, restaurant, catering",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 location at 3245 Harvester Road, Burlington ON. Phase 3: 1 × 2,000 sqft × $525/sqft (food) × 0.75 = ~$787K."
+  },
+  {
+    "name": "Divine Boutique Shop",
+    "domain": "divineboutiqueshop.com",
+    "num_locations": 1,
+    "predicted_revenue": "$675,000-$900,000",
+    "product_type": "Women's boutique fashion, Nebraska specialty",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned store in Nebraska (Tue-Fri 10am-5:30pm, Sat 10am-2pm). Phase 3: 1 × 1,500 sqft × $600/sqft (apparel) × 0.75 = ~$675K."
+  },
+  {
+    "name": "Berkling",
+    "domain": "www.berklingtools.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Tools (online store)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Hammers Family Birch",
+    "domain": "hfbirch.com",
+    "num_locations": 1,
+    "predicted_revenue": "$337,500-$450,000",
+    "product_type": "Birch sap beverages, birch syrup, Chaga, Alaska products",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned retail/tasting in Talkeetna, Alaska. Phase 3: 1 × 1,500 sqft × $450/sqft × 0.5 = ~$337K."
+  },
+  {
+    "name": "Eleven Eleven",
+    "domain": "eleveneleven.com",
+    "num_locations": 1,
+    "predicted_revenue": "$675,000-$900,000",
+    "product_type": "Apparel, accessories, gifts, local designer jewelry",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned boutique at 1111 S. Congress Ave, Austin TX. Phase 3: 1 × 1,500 sqft × $600/sqft (apparel) × 0.75 = ~$675K."
+  },
+  {
+    "name": "PureSleep",
+    "domain": "puresleep.com",
+    "num_locations": 48,
+    "predicted_revenue": "$108,000,000-$144,000,000",
+    "product_type": "Mattresses, sleep products",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 48 brand-owned stores in Michigan and Illinois (Pure Sleep/Art Van). Phase 3: 48 × 2,000 sqft × $450/sqft (general) × 1.0 = ~$43.2M; with showroom sqft 5,000 = ~$108M."
+  },
+  {
+    "name": "Zero Friction",
+    "domain": "zerofriction.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Golf gloves, balls, tees, bags",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Infinity Laser Spa",
+    "domain": "infinitylaserspa.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,125,000-$1,500,000",
+    "product_type": "Laser hair removal, spa services",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 location at 866 6th Avenue, NYC (Mon-Fri 10am-7pm, Sun 10am-7pm). Phase 3: 1 × 2,500 sqft × $600/sqft (beauty services) × 0.75 = ~$1.125M."
+  },
+  {
+    "name": "Jung Lee NY",
+    "domain": "jungleeny.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,875,000-$2,250,000",
+    "product_type": "Home decor, tableware, lighting, luxury brands (Baccarat, Hermès)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned store at 25 W. 29th St, NYC. Phase 3: 1 × 2,500 sqft × $1,250/sqft (luxury) × 0.6 = ~$1.875M."
+  },
+  {
+    "name": "Fox + Kit Children's Boutique",
+    "domain": "shopfoxandkit.com",
+    "num_locations": 1,
+    "predicted_revenue": "$506,250-$675,000",
+    "product_type": "Children's clothing, toys, books, accessories",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 1 brand-owned boutique at 39 Market Street, Mashpee MA. Phase 3: 1 × 1,500 sqft × $450/sqft (apparel) × 0.75 = ~$506K."
+  }
+]

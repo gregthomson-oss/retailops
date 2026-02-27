@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Greco Gum",
+    "domain": "checkout.grecogum.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Natural mastic chewing gum from Chios, Greece - sugar-free, vegan, digestive health",
+    "reasoning": "Phase 1: ELIGIBLE - natural gum products, no prohibited items. Phase 2: Checked grecogum.com - online-only retailer, no physical retail locations. Phase 3: N/A - no retail locations."
+  },
+  {
+    "name": "Detroit GT",
+    "domain": "www.detroitgt.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,200,000",
+    "product_type": "Apparel and accessories - Detroit-inspired t-shirts, hoodies, home decor for men, women, kids",
+    "reasoning": "Phase 1: ELIGIBLE - apparel and accessories. Phase 2: 1 brand-owned retail location at 2301 Wolcott St, Ferndale, MI 48220. Phase 3: 1 location × 2,000 sqft × $600/sqft (specialty apparel) × 1.0 = ~$1.2M; used conservative 2,000 sqft estimate."
+  },
+  {
+    "name": "MRSEY US",
+    "domain": "mrsey-us.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - myshopify store, could not verify specific products",
+    "reasoning": "Phase 1: ELIGIBLE (assumed) - no prohibited products found. Phase 2: .myshopify.com domain indicates online-only store; no physical retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "Posson Welding",
+    "domain": "possonwelding.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom-welded gym equipment - grip strength trainers, forearm builders, hand builders",
+    "reasoning": "Phase 1: ELIGIBLE - fitness equipment, not B2B-only (accepts direct consumer orders). Phase 2: Online-based side business, no brick-and-mortar retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "The John Tavares Foundation",
+    "domain": "johntavaresfoundation.org",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Charitable foundation merchandise - apparel, collectibles, signed hockey pucks, hats",
+    "reasoning": "Phase 1: ELIGIBLE - apparel and collectibles, proceeds support charity. Phase 2: Foundation operates online store only; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "The Iron Office",
+    "domain": "theironoffice.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Coworking/office space memberships - not retail products",
+    "reasoning": "Phase 1: ELIGIBLE - office space services. Phase 2: Has physical locations (Sunnyside, etc.) but these are coworking/office spaces, NOT retail stores. No brand-owned retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Dayglow Coffee",
+    "domain": "servedayglow.com",
+    "num_locations": 3,
+    "predicted_revenue": "$2,250,000",
+    "product_type": "Specialty coffee roaster and retailer",
+    "reasoning": "Phase 1: ELIGIBLE - coffee. Phase 2: 3+ brand-owned locations in LA: 3206 W Sunset Blvd, 5630 Melrose Ave, and others. Phase 3: 3 locations × 1,500 sqft × $500/sqft (food/specialty) × 1.0 = ~$2.25M; used conservative estimate."
+  },
+  {
+    "name": "E2E",
+    "domain": "22eyes.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Blue light glasses - E2E Blue Light Glasses",
+    "reasoning": "Phase 1: ELIGIBLE - eyewear. Phase 2: 22eyes.com is online-only; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Northwoods Humidors",
+    "domain": "www.northwoodshumidors.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Cigar humidors, cigar accessories, lighters, cutters, ashtrays - tobacco products",
+    "reasoning": "Phase 1: INELIGIBLE - sells tobacco/cigar products and accessories. USA's largest cigar humidor supplier. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Texas Buildmart Store",
+    "domain": "www.texasbuildmartstore.com",
+    "num_locations": 1,
+    "predicted_revenue": "$2,250,000",
+    "product_type": "AC vent covers, linear slot diffusers - HVAC manufacturing",
+    "reasoning": "Phase 1: ELIGIBLE - HVAC products, not prohibited. Phase 2: 1 brand-owned location at 1804 N. 23rd Street, McAllen, TX 78501. Phase 3: 1 location × 5,000 sqft × $450/sqft (general/industrial) × 1.0 = ~$2.25M; used conservative estimate."
+  },
+  {
+    "name": "BladeZilla",
+    "domain": "bladezilla.ca",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Premium knives - tactical, EDC, custom knives from brands like Shirogorov, Microtech",
+    "reasoning": "Phase 1: INELIGIBLE - sells knives/weapons. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "M-16 Jewelry",
+    "domain": "www.m16jewelry.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Hand-crafted 18kt gold-filled statement jewelry - necklaces, bracelets, earrings, rings",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry (M-16 is brand name, not weapons). Phase 2: Online-only store based in Miami; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Rodzilla Rests",
+    "domain": "therodzilla.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Precision rifle front rests and accessories for competitive shooting",
+    "reasoning": "Phase 1: INELIGIBLE - firearms/weapons accessories (rifle rests for shooting). Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "GIORNO DIAMONDS",
+    "domain": "kirmanijewelers.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Jewelry/diamonds - limited info found",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry. Phase 2: Could not verify kirmanijewelers.com; search returned other Kiran/Kirmani jewelers. No brand-owned retail locations confirmed. Phase 3: N/A."
+  },
+  {
+    "name": "FPVCycle",
+    "domain": "fpvcycle.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "FPV drone parts - frames, motors, propellers, ESCs, electronics",
+    "reasoning": "Phase 1: ELIGIBLE - drone components (hobby/racing drones, not weapons). Phase 2: Online-only e-commerce; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Melissas Produce",
+    "domain": "www.melissas.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Fresh produce, gifts, specialty food items",
+    "reasoning": "Phase 1: ELIGIBLE - produce and food. Phase 2: Online retailer with HQ in Vernon, CA; no physical retail store locations found. Phase 3: N/A."
+  },
+  {
+    "name": "metroswimshop",
+    "domain": "metroswimshop.com",
+    "num_locations": 3,
+    "predicted_revenue": "$3,000,000",
+    "product_type": "Swimwear and swim shop products",
+    "reasoning": "Phase 1: ELIGIBLE - swimwear. Phase 2: 3 brand-owned locations: Stirling NJ (1221 Valley Rd), Norwalk CT (666 Main Ave), Fairfax VA (11215 Lee Hwy). Phase 3: 3 locations × 2,000 sqft × $500/sqft (specialty apparel) × 1.0 = ~$3M; conservative estimate."
+  },
+  {
+    "name": "Exoceuticals",
+    "domain": "exoceuticals.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Exosome-based skincare - serums, anti-aging products",
+    "reasoning": "Phase 1: ELIGIBLE - skincare. Phase 2: Store locator shows third-party retailers (e.g., Latus Health); no brand-owned retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "5DEV",
+    "domain": "ride5dev.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Premium bike components - titanium cranks, stems, chainrings, bottom brackets",
+    "reasoning": "Phase 1: ELIGIBLE - cycling components. Phase 2: Dealer locator shows third-party bike shops; no brand-owned retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Hunny Pot Pup",
+    "domain": "hunnypotpup.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Dog accessories - Scrunchiedanas, apparel, leashes, collars (NOT cannabis - different from Hunny Pot Cannabis)",
+    "reasoning": "Phase 1: ELIGIBLE - pet accessories and apparel. Phase 2: Online-only; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Terra Toys",
+    "domain": "terratoys.com",
+    "num_locations": 1,
+    "predicted_revenue": "$5,400,000",
+    "product_type": "Toys - classic toys, locally owned since 1978",
+    "reasoning": "Phase 1: ELIGIBLE - toys. Phase 2: 1 brand-owned location at 2438 W Anderson Ln, Austin, TX 78757 - 12,000 sqft. Phase 3: 1 location × 12,000 sqft × $450/sqft (general retail) × 1.0 = ~$5.4M."
+  },
+  {
+    "name": "Fitness Connection",
+    "domain": "fitcon.catalystagency.co",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Gym/fitness center memberships - not retail product sales",
+    "reasoning": "Phase 1: ELIGIBLE - fitness services. Phase 2: Fitness Connection has 8 gym locations but these are fitness centers, not retail stores. fitcon.catalystagency.co may be agency landing page. No retail product locations. Phase 3: N/A."
+  },
+  {
+    "name": "Cherokee Nation Gift Shop",
+    "domain": "shop.visitcherokeenation.com",
+    "num_locations": 3,
+    "predicted_revenue": "$5,625,000",
+    "product_type": "Native American jewelry, art, Cherokee apparel, Pendleton merchandise",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry, art, apparel. Phase 2: 3 brand-owned locations: Tahlequah (Cherokee Springs Plaza), Catoosa (Hard Rock Hotel), Vinita (Anna Mitchell Center). Phase 3: 3 locations × 1,500 sqft × $1,250/sqft (jewelry/specialty) × 1.0 = ~$5.6M."
+  },
+  {
+    "name": "SubliPartner",
+    "domain": "sublipartner.cl",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Sublimation products - Chile-based, limited info",
+    "reasoning": "Phase 1: ELIGIBLE (assumed) - sublimation supplies. Phase 2: Could not find physical store locations for sublipartner.cl. Phase 3: N/A."
+  },
+  {
+    "name": "ARTESANIAS & CULTURA",
+    "domain": "artesaniastapatias.store",
+    "num_locations": 1,
+    "predicted_revenue": "$1,200,000",
+    "product_type": "Handcrafted Mexican artisan clothing and accessories",
+    "reasoning": "Phase 1: ELIGIBLE - artisan clothing/accessories. Phase 2: 1 location at 1690 Story Rd Suite #125, San Jose, CA 95122 (Artesanias tapatias Kool). Phase 3: 1 location × 2,000 sqft × $600/sqft (specialty apparel) × 1.0 = ~$1.2M."
+  },
+  {
+    "name": "Feltz's Dairy Store",
+    "domain": "feltzsdairystore.com",
+    "num_locations": 1,
+    "predicted_revenue": "$750,000",
+    "product_type": "Wisconsin cheese, ice cream, wine, grass-fed beef - dairy store",
+    "reasoning": "Phase 1: ELIGIBLE - dairy and food products. Phase 2: 1 brand-owned location at 5796 Porter Drive, Stevens Point, WI 54482. Phase 3: 1 location × 1,500 sqft × $500/sqft (food/specialty) × 1.0 = ~$750K; used conservative estimate."
+  },
+  {
+    "name": "Happy Life Magic",
+    "domain": "happylifemagic.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - could not verify; possibly magic tricks/novelty",
+    "reasoning": "Phase 1: ELIGIBLE (assumed). Phase 2: No physical store locations found; search returned different businesses (Happy Magic Store, Happy Life cannabis). Phase 3: N/A."
+  },
+  {
+    "name": "SEVEN SINS • NOISE • SKUNK",
+    "domain": "s7ns-noise.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Guitar pedals, Morton pedalboards, mic sensors - music/audio equipment",
+    "reasoning": "Phase 1: ELIGIBLE - music equipment. Phase 2: Online-only, worldwide shipping; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Sleep Center",
+    "domain": "sleepcenter.net",
+    "num_locations": 1,
+    "predicted_revenue": "$2,500,000",
+    "product_type": "Mattresses - Tempur-Pedic, Beautyrest, Serta, Sealy, etc.",
+    "reasoning": "Phase 1: ELIGIBLE - mattresses and furniture. Phase 2: 1 brand-owned location at 1330 Del Paso Road, Suite #150, Sacramento, CA 95834. Serves greater Sacramento area. Phase 3: 1 location × 5,000 sqft × $500/sqft (furniture) × 1.0 = ~$2.5M."
+  },
+  {
+    "name": "Vicco Retail",
+    "domain": "viccoretail.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - myshopify store",
+    "reasoning": "Phase 1: ELIGIBLE (assumed). Phase 2: .myshopify.com domain indicates online-only; no physical retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "Ronny Mauricio",
+    "domain": "e6063a-4.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - myshopify store, possibly Mets/MLB merchandise",
+    "reasoning": "Phase 1: ELIGIBLE (assumed) - likely sports apparel. Phase 2: .myshopify.com domain indicates online-only; could not verify specific store. Phase 3: N/A."
+  },
+  {
+    "name": "Shrimp Daddy",
+    "domain": "eatshrimpdaddy.com",
+    "num_locations": 1,
+    "predicted_revenue": "$750,000",
+    "product_type": "Hawaiian-style garlic butter shrimp restaurant, sauce sales",
+    "reasoning": "Phase 1: ELIGIBLE - restaurant/food. Phase 2: 1 brand-owned location at Topanga Social food hall, 6600 CA-27 #9038, Canoga Park, CA 91303. Phase 3: 1 location × 1,500 sqft × $500/sqft (food) × 1.0 = ~$750K."
+  },
+  {
+    "name": "Silvana Miracle Handmade Natural Skin Care",
+    "domain": "silvanamiracle.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Handmade natural skincare - masks, serums, cleansers, moisturizers",
+    "reasoning": "Phase 1: ELIGIBLE - skincare. Phase 2: 1 location - facial treatment/spa in Sherman Oaks, CA (offers Silvana facials + product sales). Phase 3: 1 location × 1,500 sqft × $600/sqft (boutique) × 1.0 = ~$900K."
+  },
+  {
+    "name": "Ellipticraft",
+    "domain": "ellipticraft.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - limited info; possibly fitness/elliptical related",
+    "reasoning": "Phase 1: ELIGIBLE (assumed). Phase 2: Could not find ellipticraft.com in search results; no physical retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "buckinpalomino",
+    "domain": "buckinpalomino.myshopify.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,200,000",
+    "product_type": "Women's boutique - western wear, contemporary clothing, jewelry, accessories",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: 1 brand-owned location at 616 Railroad Ave, Unit A, Zillah, WA 98953. Phase 3: 1 location × 2,000 sqft × $600/sqft (specialty apparel) × 1.0 = ~$1.2M."
+  },
+  {
+    "name": "Bridgewater Chocolate",
+    "domain": "www.bridgewaterchocolate.com",
+    "num_locations": 2,
+    "predicted_revenue": "$1,500,000",
+    "product_type": "Handmade gourmet chocolates, toffees, turtles, truffles",
+    "reasoning": "Phase 1: ELIGIBLE - chocolate/food. Phase 2: 2 brand-owned locations: Westport CT (165 Main St), Brookfield CT (factory retail store). Phase 3: 2 locations × 1,500 sqft × $500/sqft (food/specialty) × 1.0 = ~$1.5M."
+  },
+  {
+    "name": "Holy Lamb Organics",
+    "domain": "www.holylamborganics.com",
+    "num_locations": 2,
+    "predicted_revenue": "$4,500,000",
+    "product_type": "Organic bedding - mattresses, pillows, comforters, sheets",
+    "reasoning": "Phase 1: ELIGIBLE - organic bedding. Phase 2: 2 brand-owned showrooms: Oakville WA (manufacturing facility), Olympia WA (113 Thurston Ave NE). Phase 3: 2 locations × 5,000 sqft × $450/sqft (furniture/home) × 1.0 = ~$4.5M."
+  },
+  {
+    "name": "Organic Hydration",
+    "domain": "goodonyaorganic.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Organic hydration stick packs - electrolyte/hydration products",
+    "reasoning": "Phase 1: ELIGIBLE - hydration supplements. Phase 2: Online and wholesale; products at third-party retailers (Goodwynn's) but no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Dear Holmes",
+    "domain": "www.dearholmes.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Sherlock Holmes mystery subscription/mail - puzzle games",
+    "reasoning": "Phase 1: ELIGIBLE - entertainment/puzzle products. Phase 2: Online-only e-commerce; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "39 North CO",
+    "domain": "39northco.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,100,000",
+    "product_type": "Gift and home decor - women's clothing, Annie Sloan chalk paint",
+    "reasoning": "Phase 1: ELIGIBLE - home decor and apparel. Phase 2: 1 brand-owned location at 10685 S Parker Rd, Parker, CO 80134. Phase 3: 1 location × 2,000 sqft × $550/sqft (home/furniture) × 1.0 = ~$1.1M."
+  },
+  {
+    "name": "Good Nite Gear",
+    "domain": "goodnitegearshop.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Night vision equipment and tactical gear",
+    "reasoning": "Phase 1: ELIGIBLE - tactical/outdoor gear (night vision not in prohibited list). Phase 2: Online-only; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Girls Just Wanna Weekend",
+    "domain": "merch.girlsjustwannaweekend.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Event merchandise - apparel, drinkware, accessories for music festival",
+    "reasoning": "Phase 1: ELIGIBLE - apparel and merchandise. Phase 2: Online merchandise store; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Vuni Gear",
+    "domain": "vunigear.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Outdoor gear - jackets, vests, pants",
+    "reasoning": "Phase 1: ELIGIBLE - outdoor apparel. Phase 2: Online-only; no physical retail locations found. Phase 3: N/A."
+  },
+  {
+    "name": "Free Range Equipment",
+    "domain": "freerangeequipment.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Canvas packs and outdoor equipment",
+    "reasoning": "Phase 1: ELIGIBLE - outdoor equipment. Phase 2: Store locator for third-party retailers; based in Bend OR, online sales - no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Irrational Certainties",
+    "domain": "www.irrationalcertainties.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Wall murals, towels, beach dresses, puzzles, tote bags, decorative pillows, furniture",
+    "reasoning": "Phase 1: ELIGIBLE - home decor and apparel. Phase 2: Online-only e-commerce; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "E-Z UP Canada",
+    "domain": "www.ezup.ca",
+    "num_locations": 2,
+    "predicted_revenue": "$4,500,000",
+    "product_type": "Canopy tents, shelters, event structures",
+    "reasoning": "Phase 1: ELIGIBLE - canopy/shelter products. Phase 2: 2 brand-owned locations: Laval QC (351 Boul Samson), Edmonton AB (8121 43rd St NW). Phase 3: 2 locations × 5,000 sqft × $450/sqft × 1.0 = ~$4.5M; used conservative estimate."
+  },
+  {
+    "name": "Grace Davis + Company",
+    "domain": "shopgracedavisandcompany.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Apparel/fashion - based in Dyersburg, TN",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: Online-only; no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Healthy Hippo",
+    "domain": "healthyhippo.ca",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Natural/organic food products - sold at third-party retailers",
+    "reasoning": "Phase 1: ELIGIBLE - natural food products. Phase 2: Store locator shows third-party retailers; no brand-owned retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "WOFS.com Feng Shui Extravaganza (Malaysia)",
+    "domain": "extravaganza.worldoffengshui.my",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Feng shui event/education - courses, consultations, online tools",
+    "reasoning": "Phase 1: ELIGIBLE - feng shui education/events. Phase 2: Event website; World of Feng Shui Malaysia store has early access - event-based, not traditional retail. No confirmed brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Supplynow-Custom",
+    "domain": "supplynow-custom.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - myshopify custom/supply store",
+    "reasoning": "Phase 1: ELIGIBLE (assumed). Phase 2: .myshopify.com domain indicates online-only; could not find specific store info. Phase 3: N/A."
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "morgane le fay",
+    "domain": "www.morganelefay.com",
+    "num_locations": 2,
+    "predicted_revenue": "$2,250,000-$3,000,000",
+    "product_type": "Designer fashion, ready-to-wear, bridal, formal wear",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned flagship at 955 Madison Ave NYC + SoHo store at 100 Wooster St. Phase 3: 2 × ~1,500 sqft × $750-850/sqft (designer apparel) × 1.0 = $2.25M-$3M."
+  },
+  {
+    "name": "Corriente Buckle",
+    "domain": "www.corrientebuckle.com",
+    "num_locations": 1,
+    "predicted_revenue": "$562,500-$750,000",
+    "product_type": "Custom trophy belt buckles, jewelry",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned store at 165 Hallas Rd, Anthony, NM 88021. Phase 3: 1 × ~750 sqft × $1,250-1,500/sqft (jewelry benchmark) × 0.6 traffic = $562K-$750K."
+  },
+  {
+    "name": "Plantation 59",
+    "domain": "plantation59.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Men's and women's apparel, dresses, accessories",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Website mentions physical store but no verified address found; online-only confirmed. Phase 3: N/A."
+  },
+  {
+    "name": "Hazel Owlery",
+    "domain": "hazelowlery.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Handmade resin art, collectible creatures, jewelry",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only artisan shop; no physical retail. Phase 3: N/A."
+  },
+  {
+    "name": "DIYative",
+    "domain": "diyative.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "DIY crafts, 3D wooden puzzles, miniature sets, educational toys",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only DTC; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Stadium Sports",
+    "domain": "shopstadiumsports.com",
+    "num_locations": 2,
+    "predicted_revenue": "$1,080,000-$1,440,000",
+    "product_type": "Sports apparel, equipment, merchandise",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: 2 brand-owned stores: Greenville NC (1400-G Charles St), Midland TX (2040 W Cuthbert Ave). Phase 3: 2 × ~1,200 sqft × $600-800/sqft (sports apparel) × 0.75 = $1.08M-$1.44M."
+  },
+  {
+    "name": "Snuck Farm",
+    "domain": "snuckfarm.com",
+    "num_locations": 1,
+    "predicted_revenue": "$337,500-$450,000",
+    "product_type": "Farm produce, cut flowers, farm-made foods, artisan gifts",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned farmshop at 504 W. 1100 N., Pleasant Grove, UT. Phase 3: 1 × ~750 sqft × $450-600/sqft (farm retail) × 1.0 = $337K-$450K."
+  },
+  {
+    "name": "Shopeverylastdetail",
+    "domain": "shopeverylastdetail.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Event/wedding details, party supplies (inferred from name)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail found. Phase 3: N/A."
+  },
+  {
+    "name": "Madame Peacock's",
+    "domain": "madamepeacocks.com",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "Western boho clothing, outerwear, accessories",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned boutique at 638 Main St, Deadwood, SD 57732. Phase 3: 1 × ~750 sqft × $600-850/sqft (apparel) × 0.75 = $450K-$600K."
+  },
+  {
+    "name": "CASA R CONCEPT STORE",
+    "domain": "casa-r.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown (Shopify store)",
+    "reasoning": "Phase 1: Assumed ELIGIBLE. Phase 2: No brand-owned retail location found. Phase 3: N/A."
+  },
+  {
+    "name": "Maria Galland Paris au Canada",
+    "domain": "mariagalland.ca",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Skincare, makeup, professional beauty products",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only Canadian e-commerce; MMM EXPERT salons are third-party. Phase 3: N/A."
+  },
+  {
+    "name": "Edith James Boutique Beauty Salon & Spa",
+    "domain": "edithjamesbeauty.com",
+    "num_locations": 1,
+    "predicted_revenue": "$540,000-$720,000",
+    "product_type": "Salon/spa services, beauty products (lip liner, brow pencil, lipgloss)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned salon at 750 W Route 70, Marlton, NJ 08053 with retail product sales. Phase 3: 1 × ~1,200 sqft × $450-600/sqft (beauty retail) × 1.0 = $540K-$720K."
+  },
+  {
+    "name": "Look Organics",
+    "domain": "www.lookorganics.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Organic skincare, supplements (no CBD)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only DTC; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Sassy Craft Creations",
+    "domain": "sassycraftcreations.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom sublimated tumblers, accessories",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "ATWOOD Industries",
+    "domain": "www.atwoodindustries.net",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Industrial tooling, cutting tools, material handling, janitorial supplies (B2B)",
+    "reasoning": "Phase 1: INELIGIBLE - B2B-only industrial distributor. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Shop Denison University",
+    "domain": "shop.denison.edu",
+    "num_locations": 1,
+    "predicted_revenue": "$540,000-$720,000",
+    "product_type": "University apparel, gifts, collectibles",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: University bookstore at Slayter Hall, 100 W College St, Granville OH (in-store pickup). Phase 3: 1 × ~1,200 sqft × $450-600/sqft (collegiate retail) × 1.0 = $540K-$720K."
+  },
+  {
+    "name": "Crew Dog",
+    "domain": "crew-dog.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom collegiate/organizational apparel",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; partners with 90+ crew teams, no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Kids Clothing Cottage",
+    "domain": "kidsclothingcottage.ca",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "Children's apparel, footwear, consignment",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned boutique in North West Regina, Saskatchewan. Phase 3: 1 × ~1,000 sqft × $450-600/sqft (kids apparel) × 1.0 = $450K-$600K."
+  },
+  {
+    "name": "JDR Grad Supplies",
+    "domain": "jdrgrad.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Graduation packages, caps/gowns, class rings (B2B school partnerships)",
+    "reasoning": "Phase 1: INELIGIBLE - B2B; serves schools with customized storefronts, not consumer retail. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Basicality",
+    "domain": "www.basicality.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Designer fashion (Ulla Johnson, Freecity, Nili Lotan)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; ships from California, no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "LKB CUSTOM DESIGNS",
+    "domain": "lkbcustomdesigns.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom jewelry/designs (inferred)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: No brand-owned retail location found. Phase 3: N/A."
+  },
+  {
+    "name": "Undaunted Ultimate Survival Gear, LLC",
+    "domain": "undauntedultimatesurvivalgear.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Survival kits, emergency gear, camping tools (no firearms/weapons)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Whispering Pages France",
+    "domain": "whisperingpages-francais.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Personalized book embossers",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; ships internationally. Phase 3: N/A."
+  },
+  {
+    "name": "Old Mill of Guilford",
+    "domain": "oldmillofguilford.com",
+    "num_locations": 1,
+    "predicted_revenue": "$337,500-$450,000",
+    "product_type": "Stone-ground flour, cornmeal, grits, mixes, honey, NC crafts",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Historic mill with retail shop at 1340 NC Hwy 68 N, Oak Ridge NC. Phase 3: 1 × ~750 sqft × $450-600/sqft (gift/food) × 1.0 = $337K-$450K."
+  },
+  {
+    "name": "The Hoverball",
+    "domain": "thehoverball.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Flying orb toy, entertainment",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only DTC; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Pearl Pop",
+    "domain": "www.pearlpop.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Jewelry (inferred from name)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail found. Phase 3: N/A."
+  },
+  {
+    "name": "FCDLabels",
+    "domain": "fcdlabels.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom labels, placards, aluminum signs (B2B electrical/industrial)",
+    "reasoning": "Phase 1: INELIGIBLE - B2B wholesale; industrial labels, volume accounts. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Torchlight Games and Hobbies",
+    "domain": "torchlightgh.com",
+    "num_locations": 1,
+    "predicted_revenue": "$405,000-$540,000",
+    "product_type": "Tabletop games, TCG, miniatures, hobbies",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned game store at 860 Harrington Court Unit 5, Burlington ON. Phase 3: 1 × ~900 sqft × $450-600/sqft (hobby retail) × 1.0 = $405K-$540K."
+  },
+  {
+    "name": "12345 Clothing",
+    "domain": "12345-clothing.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Apparel (inferred from name)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: No brand-owned retail found. Phase 3: N/A."
+  },
+  {
+    "name": "SHOP THE MERC",
+    "domain": "shopthemerc.com",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "Boutique clothing, home décor",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned mercantile at 107 N Broadway Ave, Sylacauga, AL 35150. Phase 3: 1 × ~1,000 sqft × $450-600/sqft (apparel) × 1.0 = $450K-$600K."
+  },
+  {
+    "name": "Spoiled Lips",
+    "domain": "www.spoiledcosmetics.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Cosmetics, liquid lipsticks, lashes, skincare",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only DTC; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Sassy Grace/Southern Gent",
+    "domain": "www.sassygracesoutherngent.com",
+    "num_locations": 1,
+    "predicted_revenue": "$540,000-$720,000",
+    "product_type": "Family clothing, jewelry, hats, health & beauty",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned boutique at 1319 Union University Dr Suite A, Jackson, TN 38305. Phase 3: 1 × ~1,200 sqft × $450-600/sqft (apparel) × 1.0 = $540K-$720K."
+  },
+  {
+    "name": "Toploft",
+    "domain": "toploft-clothing.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Apparel (inferred)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only Shopify store; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Bible Nerd Shop",
+    "domain": "shop.biblenerdministries.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Bible journaling supplies, stickers, apparel, study courses",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "INJECTORS CHOICE",
+    "domain": "injectorschoice.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Automotive fuel injectors",
+    "reasoning": "Phase 1: ELIGIBLE - auto parts, not prohibited. Phase 2: Online-only; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "ICAM Institute of Amarillo",
+    "domain": "774009.myshopify.com",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "Integrative health/wellness services, supplements",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Physical clinic at 1901 Medi Park Dr Bldg B Ste 1001, Amarillo TX. Phase 3: 1 × ~1,000 sqft × $450-600/sqft (wellness) × 1.0 = $450K-$600K."
+  },
+  {
+    "name": "eMpulse Clothing Line",
+    "domain": "empulseline.com",
+    "num_locations": 1,
+    "predicted_revenue": "$405,000-$540,000",
+    "product_type": "Sustainable upcycled fashion",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Permanent storefront in Ocean Beach, San Diego (since Sept). Phase 3: 1 × ~900 sqft × $450-600/sqft (apparel) × 1.0 = $405K-$540K."
+  },
+  {
+    "name": "Mavric Electric Cycles",
+    "domain": "www.mavricbikes.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Electric bikes, e-bike accessories",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online + authorized dealers; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Craze Outdoors",
+    "domain": "crazeoutdoors.com",
+    "num_locations": 1,
+    "predicted_revenue": "$450,000-$600,000",
+    "product_type": "Outdoor gear, portable power, camp cooking, tools",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned store at 6023 4 St SE, Calgary AB. Phase 3: 1 × ~1,000 sqft × $450-600/sqft (outdoor retail) × 1.0 = $450K-$600K."
+  },
+  {
+    "name": "My Store",
+    "domain": "0hzjdg-6p.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown",
+    "reasoning": "Phase 1: INELIGIBLE - Generic myshopify.com subdomain indicates test/development store, not production retail. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "Lily Boutique",
+    "domain": "lily-boutique.com",
+    "num_locations": 1,
+    "predicted_revenue": "$750,000-$1,000,000",
+    "product_type": "Women's fashion, cashmere, jewelry, handbags",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Brand-owned boutique at 237 NE 4th Ave, Camas, WA 98607. Phase 3: 1 × ~1,000 sqft × $750-1,000/sqft (boutique apparel) × 1.0 = $750K-$1M."
+  },
+  {
+    "name": "SOLM",
+    "domain": "www.solm.co.uk",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Furniture accessories, hardware, kitchen/bath",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only (solmer.co.uk); no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Marea PR",
+    "domain": "mareapr.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Smoke shop, tattoo (tobacco/vaping products)",
+    "reasoning": "Phase 1: INELIGIBLE - Smoke shop sells tobacco/vaping products prohibited on Shopify. Phase 2: N/A. Phase 3: N/A."
+  },
+  {
+    "name": "LanusDrone",
+    "domain": "lanusdrone.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Drones, 4K/8K aerial cameras",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Ro-Tique Boutique",
+    "domain": "rotiqueboutique.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Apparel (inferred)",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: No brand-owned retail found. Phase 3: N/A."
+  },
+  {
+    "name": "DecorLane",
+    "domain": "www.decorlane.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Luxury home décor, lighting, bedding, dining",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "VerboBuds",
+    "domain": "verbobuds.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Translation earbuds, headphones, smart glasses",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only DTC; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Good Morrow Co",
+    "domain": "goodmorrowco.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's fashion, accessories, blazers, blouses",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "toners.ca",
+    "domain": "www.toners.ca",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Printer ink, toner cartridges",
+    "reasoning": "Phase 1: ELIGIBLE. Phase 2: Online-only Canadian retailer; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Amber Products Store",
+    "domain": "store.amberproducts.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Professional beauty/skincare, waxing supplies (B2B spa/salon)",
+    "reasoning": "Phase 1: INELIGIBLE - B2B wholesale for spa/salon professionals. Phase 2: N/A. Phase 3: N/A."
+  }
+]

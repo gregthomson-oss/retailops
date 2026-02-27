@@ -1,0 +1,402 @@
+[
+  {
+    "name": "CyberGearco",
+    "domain": "www.cybergearco.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Tesla Cybertruck accessories (LED lights, refrigerators, storage, chargers)",
+    "reasoning": "Phase 1: ELIGIBLE - automotive accessories, no prohibited products. Phase 2: checked domain - online-only retailer, no physical retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "THE DOGPOUND",
+    "domain": "thedogpoundstore.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Athletic and lifestyle apparel (Lululemon, streetwear, hoodies)",
+    "reasoning": "Phase 1: ELIGIBLE - apparel, no prohibited products. Phase 2: DOGPOUND has gym locations (NYC, LA) but merchandise is sold online only; no brand-owned retail storefront for apparel. Phase 3: N/A."
+  },
+  {
+    "name": "Groomer Supply House",
+    "domain": "www.groomersupplyhouse.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Pet grooming supplies (clippers, shears, dryers, shampoos)",
+    "reasoning": "Phase 1: ELIGIBLE - pet grooming equipment, no prohibited products. Phase 2: online-only retailer, sells through distributors; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "AuthenticDeals.com",
+    "domain": "www.authenticdeals.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Brand-name watches, sunglasses, wallets, sneakers, fragrances",
+    "reasoning": "Phase 1: ELIGIBLE - accessories and watches, no prohibited products. Phase 2: online-only retailer, no physical store. Phase 3: N/A."
+  },
+  {
+    "name": "The Dorm Dudes",
+    "domain": "dormdudesbreak.org",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Unknown - website not clearly identified in search",
+    "reasoning": "Phase 1: ELIGIBLE (assumed) - dorm/college related, no prohibited products found. Phase 2: no retail locations identified. Phase 3: N/A."
+  },
+  {
+    "name": "Mama Java",
+    "domain": "mamajava.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Coffee beans, blends, single-origin, flavored coffee, mugs",
+    "reasoning": "Phase 1: ELIGIBLE - coffee products, no prohibited products. Phase 2: roaster in Carlisle PA, partners with retailers; no brand-owned cafe/retail. Phase 3: N/A."
+  },
+  {
+    "name": "Naked Armor Razors",
+    "domain": "www.nakedarmor.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Straight razors, safety razors, wet shave gear, beard oil (hemp seed oil cosmetic)",
+    "reasoning": "Phase 1: ELIGIBLE - hemp in beard oil is cosmetic hemp seed oil, not CBD. Phase 2: online-only, no retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Slipstream",
+    "domain": "swimslipstream.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Portable swim machines, pool fitness equipment",
+    "reasoning": "Phase 1: ELIGIBLE - fitness equipment, no prohibited products. Phase 2: online-only, demos available but no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "FINCH hudson",
+    "domain": "finchhudson.com",
+    "num_locations": 1,
+    "predicted_revenue": "$7,250,000",
+    "product_type": "Vintage furniture, apparel, tabletop, wellness (Hudson NY concept store)",
+    "reasoning": "Phase 1: ELIGIBLE - furniture and apparel. Phase 2: 1 brand-owned store at 427 Warren St, Hudson NY - 10,000 sq ft bi-level. Phase 3: 1 × 10,000 × $725 (apparel/furniture) × 1.0 = $7.25M."
+  },
+  {
+    "name": "Myhappycrate",
+    "domain": "www.myhappycrate.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "K-pop and kawaii subscription boxes, merchandise",
+    "reasoning": "Phase 1: ELIGIBLE - subscription boxes and merchandise. Phase 2: online-only, no physical retail. Phase 3: N/A."
+  },
+  {
+    "name": "Penry Air",
+    "domain": "penryair.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Compressed air equipment, refrigerated dryers, air compressor accessories",
+    "reasoning": "Phase 1: ELIGIBLE - industrial equipment, no prohibited products. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Laguiole Imports",
+    "domain": "www.laguiole-imports.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "French Laguiole knives, steak knives, pocket knives, corkscrews",
+    "reasoning": "Phase 1: ELIGIBLE - cutlery and kitchen knives (utility, not weapons). Phase 2: online-only in North America. Phase 3: N/A."
+  },
+  {
+    "name": "Send Climbing",
+    "domain": "www.sendclimbing.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Climbing knee pads, crash pads, climbing accessories",
+    "reasoning": "Phase 1: ELIGIBLE - climbing gear. Phase 2: online-only, sells through third-party retailers; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Jeans Warehouse Ala Moana",
+    "domain": "jeans-warehouse-hawaii-alamoana.myshopify.com",
+    "num_locations": 28,
+    "predicted_revenue": "$39,200,000",
+    "product_type": "Apparel - jeans, juniors, plus, kids, scrubs, shoes (Hawaii/Guam chain)",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: Jeans Warehouse Hawaii has 28 brand-owned retail locations across Hawaii and Guam (Ala Moana, Ka Makana Ali'i flagship, etc.). Phase 3: 28 × 2,000 × $700 (apparel) × 1.0 = $39.2M."
+  },
+  {
+    "name": "Gourmande boutique",
+    "domain": "gourmandeboutique.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,400,000",
+    "product_type": "Quebec gourmet products, gift boxes, jams, chocolates, spices",
+    "reasoning": "Phase 1: ELIGIBLE - gourmet food and gifts. Phase 2: 1 brand-owned store at 2249 King St W, Sherbrooke QC - 2,800 sq ft. Phase 3: 1 × 2,800 × $500 (food/gourmet) × 1.0 = $1.4M."
+  },
+  {
+    "name": "Sport Relics",
+    "domain": "www.sportrelics.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Sports memorabilia, stadium series baseballs, collectibles",
+    "reasoning": "Phase 1: ELIGIBLE - sports collectibles. Phase 2: online-only, Michigan warehouse; no retail. Phase 3: N/A."
+  },
+  {
+    "name": "random test123456",
+    "domain": "random-test123456.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Test/sandbox store",
+    "reasoning": "Phase 1: INELIGIBLE - myshopify.com format with generic test-style name indicates Shopify development/sandbox store, not a real business. Phase 2-3: N/A."
+  },
+  {
+    "name": "Quench Botanics",
+    "domain": "www.quenchbotanics.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Korean-inspired skincare for Indian skin (serums, masks, sunscreen)",
+    "reasoning": "Phase 1: ELIGIBLE - skincare, no CBD. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "The Mister Brewer",
+    "domain": "themisterbrewer.ca",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Fresh roasted coffee beans, Fair Trade",
+    "reasoning": "Phase 1: ELIGIBLE - coffee. Phase 2: online-only Canadian roaster. Phase 3: N/A."
+  },
+  {
+    "name": "Beauty Shamans",
+    "domain": "www.beautyshamans.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Skincare, makeup, facial devices, supplements",
+    "reasoning": "Phase 1: ELIGIBLE - beauty products. Phase 2: online-only; Beauty Shamanista in San Diego is separate skin studio. Phase 3: N/A."
+  },
+  {
+    "name": "Jeans Warehouse KaMakana Ali'i",
+    "domain": "kamakana.jeanswarehousehawaii.com",
+    "num_locations": 28,
+    "predicted_revenue": "$39,200,000",
+    "product_type": "Apparel - jeans, juniors, plus, kids, scrubs, shoes (Hawaii/Guam chain)",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: Same brand as #14 - 28 brand-owned locations in Hawaii/Guam; Ka Makana Ali'i is 12,000 sq ft flagship. Phase 3: 28 × 2,000 × $700 × 1.0 = $39.2M."
+  },
+  {
+    "name": "Misc. Goods Co.",
+    "domain": "misc-goods-co.myshopify.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Fragrances, colognes, candles, wallets, body care",
+    "reasoning": "Phase 1: ELIGIBLE - home and body goods. Phase 2: has 'Visit Us' showroom with appointment scheduling - brand-owned showroom. Phase 3: 1 × 1,500 × $600 (boutique) × 1.0 = $900K."
+  },
+  {
+    "name": "Turbo Electrical Supply",
+    "domain": "www.turboelectricalsupply.ca",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Electrical boxes and supplies for construction projects",
+    "reasoning": "Phase 1: INELIGIBLE - B2B/wholesale-only electrical supplier for large-scale projects. Phase 2-3: N/A."
+  },
+  {
+    "name": "Laurent Cadieux",
+    "domain": "laurentcadieux.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Luxury watches (Maison Cadieux / Laurent Cadieux brand)",
+    "reasoning": "Phase 1: ELIGIBLE - watches. Phase 2: online-only, no physical retail. Phase 3: N/A."
+  },
+  {
+    "name": "ComeBackCosmetix",
+    "domain": "comebackcosmetix.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Beauty/haircare (domain not fully verified; may relate to ComeBackDude)",
+    "reasoning": "Phase 1: ELIGIBLE - beauty products. Phase 2: online-only, no retail found. Phase 3: N/A."
+  },
+  {
+    "name": "Oliva",
+    "domain": "olivashoppe.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's clothing, dresses, Baby Oli children's line",
+    "reasoning": "Phase 1: ELIGIBLE - apparel (distinct from Oliva cigars). Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Be Juliet",
+    "domain": "bejuliet.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Women's clothing, swimwear, jewelry, loungewear",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Small Screen Studios",
+    "domain": "www.shopsmallscreendesigns.com",
+    "num_locations": 1,
+    "predicted_revenue": "$675,000",
+    "product_type": "Gifts, apparel, Jellycat, paper goods, home decor (Cleveland)",
+    "reasoning": "Phase 1: ELIGIBLE - gifts and lifestyle. Phase 2: 1 brand-owned shop at 2017 Murray Hill Rd, Cleveland OH; in-store pickup, Thu-Sat hours. Phase 3: 1 × 1,500 × $450 × 1.0 = $675K."
+  },
+  {
+    "name": "Blue Origin Shop",
+    "domain": "shop.blueorigin.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Blue Origin merchandise - apparel, drinkware, mission patches",
+    "reasoning": "Phase 1: ELIGIBLE - branded merchandise. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "smol",
+    "domain": "www.playsmol.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Children's play products - bounce houses, splash pads, toys",
+    "reasoning": "Phase 1: ELIGIBLE - kids play equipment. Phase 2: online-only; store locator shows third-party retailers. Phase 3: N/A."
+  },
+  {
+    "name": "Black Acid Apparel",
+    "domain": "blackacidapparel.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Custom apparel, hoodies, t-shirts, firesuits",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Kobe Mini Mart",
+    "domain": "www.minimartkobe.com",
+    "num_locations": 1,
+    "predicted_revenue": "$750,000",
+    "product_type": "Japanese snacks, ramen, beverages, stationery (Davis CA)",
+    "reasoning": "Phase 1: ELIGIBLE - food and convenience. Phase 2: 1 brand-owned store at 213 E St Suite A, Davis CA. Phase 3: 1 × 1,500 × $500 (convenience) × 1.0 = $750K."
+  },
+  {
+    "name": "IF & Co.",
+    "domain": "www.ifandco.com",
+    "num_locations": 1,
+    "predicted_revenue": "$6,875,000",
+    "product_type": "Custom luxury jewelry - pendants, chains, grillz, bridal (celebrity jeweler LA)",
+    "reasoning": "Phase 1: ELIGIBLE - jewelry. Phase 2: 1 brand-owned showroom in Los Angeles (4.5 stars, 539+ reviews). Phase 3: 1 × 5,000 × $1,375 (luxury jewelry) × 1.0 = $6.875M."
+  },
+  {
+    "name": "Tractor Parts AG",
+    "domain": "tractorpartsag.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Tractor and agricultural equipment parts",
+    "reasoning": "Phase 1: ELIGIBLE - ag parts, B2C available. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Pranarôm International",
+    "domain": "pranarom-inter.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Essential oils, aromatherapy, vegetable oils",
+    "reasoning": "Phase 1: ELIGIBLE - essential oils (not CBD). Phase 2: wholesale/B2B focused, sells through retail partners; no brand-owned retail locations. Phase 3: N/A."
+  },
+  {
+    "name": "Lux SkinLine®",
+    "domain": "lux-skinline.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Medical-grade skincare, sunscreens, anti-aging serums",
+    "reasoning": "Phase 1: ELIGIBLE - skincare. Phase 2: online and through dermatology clinics; no brand-owned retail. Phase 3: N/A."
+  },
+  {
+    "name": "Lake Fork Lure Co.",
+    "domain": "lftlures.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Fishing lures, swimbaits, worms, tackle for bass fishing",
+    "reasoning": "Phase 1: ELIGIBLE - fishing tackle. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Inateck Office DE",
+    "domain": "www.inateckoffice.de",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Barcode scanners, receipt printers, office equipment",
+    "reasoning": "Phase 1: ELIGIBLE - office tech. Phase 2: Leipzig office is HQ/warehouse; no consumer retail. Phase 3: N/A."
+  },
+  {
+    "name": "AURAGAMI LA",
+    "domain": "auragami.la",
+    "num_locations": 1,
+    "predicted_revenue": "$675,000",
+    "product_type": "Aura photography, tarot readings, spiritual services, gift shop (Chinatown LA)",
+    "reasoning": "Phase 1: ELIGIBLE - services and merchandise. Phase 2: 1 brand-owned studio/shop at 945 Sun Mun Way, Chinatown LA. Phase 3: 1 × 1,500 × $450 × 1.0 = $675K."
+  },
+  {
+    "name": "GellyDrops",
+    "domain": "gellydrops.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Gel nail art products, press-on nails, wet gel",
+    "reasoning": "Phase 1: ELIGIBLE - nail care. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "BuyVostok.com",
+    "domain": "buyvostok.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Vostok watches (Komandirskie, Amphibian, etc.)",
+    "reasoning": "Phase 1: ELIGIBLE - watches. Phase 2: Florida-based online retailer, no storefront. Phase 3: N/A."
+  },
+  {
+    "name": "Divino Seas Gt",
+    "domain": "divinoseas.com.gt",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Luxury swimwear (Guatemala domain)",
+    "reasoning": "Phase 1: ELIGIBLE - swimwear. Phase 2: online-only e-commerce. Phase 3: N/A."
+  },
+  {
+    "name": "Picking Daisies Baby + Kids",
+    "domain": "shoppickingdaisies.com",
+    "num_locations": 1,
+    "predicted_revenue": "$975,000",
+    "product_type": "Baby and kids clothing, personalized gifts (Lake Jackson TX)",
+    "reasoning": "Phase 1: ELIGIBLE - children's apparel. Phase 2: 1 brand-owned boutique at 107 West Way St Ste 12, Lake Jackson TX. Phase 3: 1 × 1,500 × $650 (apparel boutique) × 1.0 = $975K."
+  },
+  {
+    "name": "Canvas Candle Company",
+    "domain": "www.canvascandleco.com",
+    "num_locations": 1,
+    "predicted_revenue": "$675,000",
+    "product_type": "Hand-poured soy candles, gift boxes (Maple Ridge BC)",
+    "reasoning": "Phase 1: ELIGIBLE - candles. Phase 2: 1 brand-owned showroom in Maple Ridge BC, Mon-Thu 9AM-3PM for pickup/shopping. Phase 3: 1 × 1,500 × $450 × 1.0 = $675K."
+  },
+  {
+    "name": "Otho Cosmetics",
+    "domain": "othocosmetics.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Body butter, body oil, candles, soaps",
+    "reasoning": "Phase 1: ELIGIBLE - body care. Phase 2: online-only (Othos has Charleston market stall but different brand). Phase 3: N/A."
+  },
+  {
+    "name": "DEEPENDDUDS",
+    "domain": "deependduds.myshopify.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Streetwear apparel - tees, hoodies, bomber jackets",
+    "reasoning": "Phase 1: ELIGIBLE - apparel. Phase 2: online-only. Phase 3: N/A."
+  },
+  {
+    "name": "Cedar Pastries",
+    "domain": "cedarpastries.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Mediterranean baklava, maamoul, pastries",
+    "reasoning": "Phase 1: ELIGIBLE - food. Phase 2: Manassas VA facility is production/wholesale; sells through Costco, Publix, etc.; no brand-owned retail cafe. Phase 3: N/A."
+  },
+  {
+    "name": "Bottle 'N Brew",
+    "domain": "bottlenbrew.com",
+    "num_locations": 0,
+    "predicted_revenue": "",
+    "product_type": "Spirits, wine, beer, pre-mixed cocktails (alcohol - allowed)",
+    "reasoning": "Phase 1: ELIGIBLE - alcohol permitted per instructions. Phase 2: online-only alcohol retailer. Phase 3: N/A."
+  },
+  {
+    "name": "APEXi USA",
+    "domain": "www.apexi-usa.com",
+    "num_locations": 1,
+    "predicted_revenue": "$1,000,000",
+    "product_type": "Japanese performance automotive parts - exhaust, electronics",
+    "reasoning": "Phase 1: ELIGIBLE - automotive parts. Phase 2: 1 brand-owned facility at 1449 W Orange Grove Ave, Orange CA - will-call pickup by appointment. Phase 3: 1 × 2,000 × $500 × 1.0 = $1M."
+  },
+  {
+    "name": "ChurchSupplies",
+    "domain": "churchsupplies.com",
+    "num_locations": 1,
+    "predicted_revenue": "$900,000",
+    "product_type": "Church supplies - liturgical items, candles, communion, religious goods",
+    "reasoning": "Phase 1: ELIGIBLE - religious supplies. Phase 2: 1 brand-owned retail (Abbott Church Goods) at 1515 Route 38, Cherry Hill NJ. Phase 3: 1 × 2,000 × $450 × 1.0 = $900K."
+  }
+]
